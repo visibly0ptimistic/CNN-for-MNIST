@@ -2,6 +2,8 @@
 
 This project implements a Convolutional Neural Network (CNN) to classify handwritten digits from the MNIST dataset using TensorFlow and Keras.
 
+![MNIST CNN Preview](/CNN-for-MNIST.png)
+
 ## Project Structure
 - `cnn_mnist_classifier.ipynb`: Jupyter notebook containing the complete code with visualizations.
 - `cnn_mnist_classifier.py`: Python script version of the classifier.
